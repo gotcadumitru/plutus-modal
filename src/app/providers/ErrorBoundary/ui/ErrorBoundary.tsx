@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
-import {Component, ErrorInfo, ReactNode, Suspense} from 'react'
-import {ErrorPage} from 'widgets/ErrorPage'
+import { Component, ErrorInfo, ReactNode, Suspense } from 'react'
+import { ErrorPage } from 'widgets/ErrorPage'
 
 interface ErrorBoundaryProps {
   children: ReactNode
