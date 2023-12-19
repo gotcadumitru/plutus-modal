@@ -27,7 +27,7 @@
 
 **To run the project you need the following tools:**
 
-- **NodeJs** version 16+
+- **NodeJs** version 18+
 - You must have **yarn** installed ( development is done using yarn, not npm )
 - **Docker** ( to run **Loki** )
 
@@ -151,7 +151,7 @@ Inside this layer the following layers can be used: **shared**,
 
 ## Screenshots
 
-![App Screenshot](./.loki/reference/chrome_iphonex_pages_PanelPage_PRIMARY.png)
+![App Screenshot](./.loki/reference/chrome_iphonex_features_PlutusModal_OPENED_MODAL.png)
 
 ## Documentation
 
