@@ -1,17 +1,13 @@
-# CarMaster
+# Plutus modal
 
 ### [Storybook README](./config/storybook/STORYBOOK.md)
-[Storybook components](https://gotcadumitru.github.io/mycar-fe/storybook)
 
 ### [Loki README](./.loki/LOKI.md)
-[Loki report](https://gotcadumitru.github.io/mycar-fe/loki/report.html)
 
 ## Tech Stack
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is JavaScript with syntax for types.
-- [Redux Toolkit](https://redux-toolkit.js.org/) - Redux Toolkit is a set of tools that helps simplify Redux
-  development.
 - [SCSS](https://sass-lang.com/) [(BEM)](https://en.bem.info/methodology/) - Sass is the most mature, stable, and
   powerful professional grade CSS extension language in the world.
 - [Stroybook](https://storybook.js.org/) - Storybook is a frontend workshop for building UI components and pages in
@@ -41,7 +37,7 @@
 2. Go to the project directory
 
     ```bash
-    cd carmaster-fe
+    cd plutus-modal
     ```
 
 3. In case you don't have **yarn** installed, run the next command ( If you have yarn installed you can go to the next

@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": ".",
   "start_url": ".",
-  "name": "CarMaster",
-  "short_name": "CarMaster",
-  "description": "Jurnalul călătoriilor tale pe șosea, unde fiecare kilometru are o poveste.",
+  "name": "PlutusModal",
+  "short_name": "PlutusModal",
+  "description": "Plutus.",
   "icons": [
     {
       "src": "manifest-icon-192.maskable.png",
