@@ -1,0 +1,103 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  scrollbar-width: thin;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgb(255 255 255 / 0%);
+}
+
+:focus,
+:active {
+  outline: none;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+nav,
+footer,
+header,
+aside {
+  display: block;
+}
+
+html,
+body {
+  min-height: 100svh;
+  width: 100%;
+  margin: 0;
+  line-height: 1;
+  font-size: 14px;
+  text-size-adjust: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--poppins);
+  color: var(--black);
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+#plutus-root {
+  min-height: 100svh;
+}
+
+select option {
+  color: var(--grey-6);
+}
+
+select option:first-child {
+  color: var(--grey-1);
+}
+

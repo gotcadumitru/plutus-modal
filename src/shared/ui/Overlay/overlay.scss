@@ -1,0 +1,21 @@
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  inset: 0;
+  cursor: pointer;
+  z-index: 10;
+
+  &--black {
+    background-color: rgb(91 103 112 / 28%);
+  }
+
+  &--red {
+    background-color: rgb(238 50 124 / 28%);
+  }
+
+  &--blue {
+    background-color: rgb(50 110 238 / 28%);
+  }
+}

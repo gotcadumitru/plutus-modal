@@ -1,0 +1,50 @@
+{
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": ".",
+  "start_url": ".",
+  "name": "CarMaster",
+  "short_name": "CarMaster",
+  "description": "Jurnalul călătoriilor tale pe șosea, unde fiecare kilometru are o poveste.",
+  "icons": [
+    {
+      "src": "manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "car-master-id",
+  "dir": "ltr",
+  "lang": "ro",
+  "orientation": "portrait",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "prefer_related_applications": false,
+  "categories": [
+    "productivity",
+    "social",
+    "utilities"
+  ]
+}
